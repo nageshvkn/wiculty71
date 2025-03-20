@@ -1,3 +1,3 @@
 public clsss Login {
-    public static void main()
+    public static void main(A)
 }
